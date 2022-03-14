@@ -1,8 +1,9 @@
-ptr,Data center,Peeringdb for data center
-nr01.b019086-1.ymq01,Cologix MTL2,https://www.peeringdb.com/fac/1539
-nr01.b064297-0.ymq03,Vantage QC4,https://www.peeringdb.com/fac/8256
-nr11.b020176-1.ymq01,eStruxture MTL1,https://www.peeringdb.com/fac/1885
-nr01.b063456-0.ymq03,Vantage QC1,https://www.peeringdb.com/fac/5682
-nr01.b058158-0.ymq03,eStruxture MTL4,https://www.peeringdb.com/fac/8986
-ccr21.ymq01,Cologix MTL3,https://www.peeringdb.com/fac/1944
-rcr21.ymq02,Cologix MTL11 ,https://www.peeringdb.com/fac/13
+ptr,Data center,Peeringdb for data center,verified
+nr01.b019086-1.ymq01,Cologix MTL2,https://www.peeringdb.com/fac/1539,yes
+nr01.b064297-0.ymq03,Vantage QC4,https://www.peeringdb.com/fac/8256,yes
+nr11.b020176-1.ymq01,eStruxture MTL1,https://www.peeringdb.com/fac/1885,yes
+nr01.b063456-0.ymq03,Vantage QC1,https://www.peeringdb.com/fac/5682,yes
+nr01.b058158-0.ymq03,eStruxture MTL4,https://www.peeringdb.com/fac/8986,no
+ccr21.ymq01,Cologix MTL3,https://www.peeringdb.com/fac/1944,no
+rcr21.ymq02,Cologix MTL11 ,https://www.peeringdb.com/fac/13,no
+rcr01.b029490-1.ymq02,Cologix MTL7,https://www.peeringdb.com/fac/1945,no
